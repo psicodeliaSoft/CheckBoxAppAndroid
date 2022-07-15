@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
 
         if (chek1.isChecked()==true){
             int suma=valor1_int+valor2_int;
-            resultado="La suma es:  "+ suma + " || ";
+            resultado="La suma es:  "+ suma + " ||  ";
         }
         if(check2.isChecked()==true){
             int resta=valor1_int-valor2_int ;
